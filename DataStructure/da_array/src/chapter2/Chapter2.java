@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
+
 public class Chapter2 {
     
     // 동적 배열을 통해 radix number을 구현하고자 함
